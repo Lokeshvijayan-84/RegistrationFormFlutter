@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738054975017",
+    "project_id": "intellecto-notes",
+    "storage_bucket": "intellecto-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738054975017:android:345fcd2234dac9589bf638",
+        "android_client_info": {
+          "package_name": "intellecto.com.intellimindz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738054975017-ua50crk589nitq883v2da48rj1t34cb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJrTc74Q_GdCPKgcVf3e7hN8ZwFErfl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738054975017-ua50crk589nitq883v2da48rj1t34cb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
